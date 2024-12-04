@@ -46,8 +46,7 @@ Clone this repository and use it as a starting point for your Neovim configurati
 
 ```bash
 git clone https://github.com/yourusername/Minimal_neovim_plugin_list.git ~/.config/nvim
-
-
+```
 
 ## 🤝 **Contributing**
 
