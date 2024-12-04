@@ -48,6 +48,7 @@ Clone this repository and use it as a starting point for your Neovim configurati
 git clone https://github.com/yourusername/Minimal_neovim_plugin_list.git ~/.config/nvim
 
 
+
 ## 🤝 **Contributing**
 
 Feel free to contribute by suggesting additional minimalistic plugins!
