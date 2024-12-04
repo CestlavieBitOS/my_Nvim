@@ -47,19 +47,16 @@ Clone this repository and use it as a starting point for your Neovim configurati
 ```bash
 git clone https://github.com/yourusername/Minimal_neovim_plugin_list.git ~/.config/nvim
 
----
 
 ## 🤝 **Contributing**
 
 Feel free to contribute by suggesting additional minimalistic plugins!
 
----
 
 ## 📜 **License**
 
 This project is licensed under the **GPL-3.0 License**.
 
----
 
 ## Tips for further improvement:
 - **Screenshots**: Consider adding some screenshots of your Neovim setup or a demo.
