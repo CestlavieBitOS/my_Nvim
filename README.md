@@ -18,26 +18,29 @@ A **concise** and **lightweight** list of essential plugins to enhance your Neov
 
 ## 📦 **Included Plugins**
 
-1. **nvim-treesitter**  
-   📝 Advanced syntax highlighting and code parsing  
+1. **Lazy.nvim**  
+   🌟 Modern plugin manager with lazy loading.  
+   🔗 [GitHub Link](https://github.com/folke/lazy.nvim)  
+
+2. **Nvim-dap**  
+   🐛 Debug Adapter Protocol (DAP) integration for debugging support.  
+   🔗 [GitHub Link](https://github.com/mfussenegger/nvim-dap)  
+
+3. **Nvim-cmp**  
+   ⚡ Completion engine for Neovim with rich extensions.  
+   🔗 [GitHub Link](https://github.com/hrsh7th/nvim-cmp)  
+
+4. **Nvim-treesitter**  
+   📝 Advanced syntax highlighting and code parsing.  
    🔗 [GitHub Link](https://github.com/nvim-treesitter/nvim-treesitter)  
 
-2. **nvim-lspconfig**  
-   ⚡ Quick setup for Neovim's built-in LSP client  
+5. **Neovim**  
+   🖥️ Official Neovim runtime environment and features.  
+   🔗 [GitHub Link](https://github.com/neovim/neovim)  
+
+6. **Nvim-lspconfig**  
+   ⚙️ Quick setup for Neovim's built-in LSP client.  
    🔗 [GitHub Link](https://github.com/neovim/nvim-lspconfig)  
-
-3. **telescope.nvim**  
-   🔍 Fuzzy finder for files and content  
-   🔗 [GitHub Link](https://github.com/nvim-telescope/telescope.nvim)  
-
-4. **vim-airline**  
-   🖥️ Lightweight status line  
-   🔗 [GitHub Link](https://github.com/vim-airline/vim-airline)  
-
-5. **packer.nvim**  
-   ⚙️ Modern plugin manager  
-   🔗 [GitHub Link](https://github.com/wbthomason/packer.nvim)  
-
 ---
 
 ## 🛠️ **Usage**
